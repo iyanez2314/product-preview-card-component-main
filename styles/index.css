@@ -12,9 +12,11 @@
 }
 
 #card-wrapper {
+  height: 100vh;
   padding-top: 50px;
   display: flex;
   justify-content: center;
+  align-items: center;
 }
 
 img {
@@ -77,6 +79,7 @@ p {
   justify-content: space-evenly;
   border-radius: 0px 10px 10px 0px;
   background: #ffffff;
+  height: 411px;
 }
 
 .attribution {
